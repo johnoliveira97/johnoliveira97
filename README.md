@@ -1,0 +1,5 @@
+- 👋 Hi, I’m João Pedro Pires de Oliveira
+- 👀 I’m interested in JavaScript, Python, Machine Learning and Cloud Computing.
+- 🌱 I’m currently learning AWS and React.
+- 💞️ I’m looking to collaborate on new research and technologies.
+- 📫 How to reach me: john_oliveira97@hotmail.com
